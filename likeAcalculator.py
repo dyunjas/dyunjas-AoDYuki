@@ -11,4 +11,8 @@ def multiplication(a, b):
 
 def addition(a, b):
     return a + b
+    
+def hello():
+    print('Hellow World')
 
+hello()
